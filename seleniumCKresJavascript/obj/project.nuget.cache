@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "NY43phJAwES4/nklx9vsGVxzgjUGKeuEQSb938pFDb5m6GGvedbpU6XkZc03ND+fltbJ/+3RdDlrdETm67uMJQ==",
+  "success": true,
+  "projectFilePath": "D:\\laragon3\\www\\seleniumCKresJavascript\\seleniumCKresJavascript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.0.0\\microsoft.testplatform.objectmodel.17.0.0.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\microsoft.testplatform.testhost\\17.0.0\\microsoft.testplatform.testhost.17.0.0.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.8000\\selenium.webdriver.chromedriver.98.0.4758.8000.nupkg.sha512",
+    "C:\\Users\\Rizuji Keda\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
